@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TEXTSUMMERY/static/css/main.b0a4a0e7.css",
+    "main.js": "/TEXTSUMMERY/static/js/main.be9e4d0d.js",
+    "static/js/787.edd59a96.chunk.js": "/TEXTSUMMERY/static/js/787.edd59a96.chunk.js",
+    "index.html": "/TEXTSUMMERY/index.html",
+    "main.b0a4a0e7.css.map": "/TEXTSUMMERY/static/css/main.b0a4a0e7.css.map",
+    "main.be9e4d0d.js.map": "/TEXTSUMMERY/static/js/main.be9e4d0d.js.map",
+    "787.edd59a96.chunk.js.map": "/TEXTSUMMERY/static/js/787.edd59a96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0a4a0e7.css",
+    "static/js/main.be9e4d0d.js"
+  ]
+}
